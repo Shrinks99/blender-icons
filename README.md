@@ -2,6 +2,8 @@
 
 Up to now Blender's Icons have all been stored in a big SVG file [over here](https://developer.blender.org/diffusion/B/browse/master/release/datafiles/blender_icons.svg).  I don't like this method, it's hard to find things unless you know exactly where they are because the file isn't searchable and the layers aren't named.
 
+**Project Status:** 108/717 icons complete!
+
 ## Goals
 
 This repository was created with the eventual goal of breaking _all_ of these icons out of this SVG and organizing them in individually named files.  Files are named based on what Blender calls the icon in its icon viewer.  As a result of this hugely manual porting process I also intend to clean things up where possible.
