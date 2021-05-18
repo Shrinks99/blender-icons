@@ -12,7 +12,7 @@ I may create some new icons adhering to the same styles and rules set by Blender
 
 For those who wish to contribute, Blender's icons adhere to a 20×20px grid with 4px of padding on each side.  Icons must work in a single colour and transparency is used to create different shades.  Try to keep your shapes within this pixel grid, any stroke lines should most likely be 1px wide.
 
-_Do not edit the database or import icons into iconset yourself!_  This program isn't amazing for team or git collaboration and it's kinda hard to track changes because the json it creates is minified and it doesn't seem to add data in an iterative way.  Instead, move your icons into the `ingest` directory!  If you are submitting any icons that aren't already present in Blender please note these in your PR.  I (@shrinks99) will move icons out of this folder once they've been reviewed and import them into the directory myself at the end of the review process.
+_Do not edit the database or import icons into iconset yourself!_  This program isn't amazing for team or git collaboration and it's kinda hard to track changes because the json it creates is minified and it doesn't seem to add data in an iterative way.  Instead, move your icons into an `ingest` folder in the repository root directory!  If you are submitting any icons that aren't already present in Blender please note these in your PR.  I will move icons out of this folder once they've been reviewed and import them into the directory myself at the end of the review process.
 
 ## How to use
 
