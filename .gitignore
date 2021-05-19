@@ -1,1 +1,4 @@
 .DS_Store
+# Emacs/Vim artifacts
+.temp
+.swp
