@@ -16,9 +16,11 @@ For those who wish to contribute, Blender's icons adhere to a 20×20px grid with
 
 _Do not edit the database or import icons into iconset yourself!_  This program isn't amazing for team or git collaboration and it's kinda hard to track changes because the json it creates is minified and it doesn't seem to add data in an iterative way.  Instead, move your icons into an `ingest` folder in the repository root directory!  If you are submitting any icons that aren't already present in Blender please note these in your PR.  I will move icons out of this folder once they've been reviewed and import them into the directory myself at the end of the review process.
 
+There is currently a folder in the root directory labelled as `uncategorized`, this is where all the icons live that exist in Blender's big SVG but couldn't be found in the icon viewer within the program.  Do you know the name of them?  Let me know in a GitHub issue or contact me through some other means if that's better for you!  Issues are preferred though...
+
 ## How to use
 
-This repository is best used with [Iconset](https://iconset.io/), a freeware icon management application for macOS and Windows.  Download the program, open its preferences, and hit the `switch` button to select this icon library.  Note that you must be using dark mode to actually see the icons as they're all white!  When possible I try to tag icons for easy searching.
+This repository is best used with [Iconset](https://iconset.io/), a freeware icon management application for macOS and Windows.  Download the program, open its preferences, and hit the `switch` button to select the `blender-icons` folder _within_ this repository (do not select the repo itself).  Note that you must be using dark mode to actually see the icons as they're all white!  When possible I try to tag icons for easy searching.
 
 If you don't feel like installing anything you can just browse to `blender-icons/sets/Lcn-NIS8Eh8o` to find all the individual SVG files.
 
