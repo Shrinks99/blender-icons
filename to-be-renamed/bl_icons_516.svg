@@ -1,51 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="Layer_1"
-   x="0"
-   y="0"
-   enable-background="new 0 0 20 20"
-   version="1.1"
-   viewBox="0 0 20 20"
-   xml:space="preserve"
-   sodipodi:docname="bl_icons_516.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"><metadata
-     id="metadata7"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs5" /><sodipodi:namedview
-     pagecolor="#808080"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1750"
-     inkscape:window-height="991"
-     id="namedview3"
-     showgrid="false"
-     inkscape:pagecheckerboard="true"
-     inkscape:zoom="25.577418"
-     inkscape:cx="-0.44644607"
-     inkscape:cy="8.0087009"
-     inkscape:window-x="87"
-     inkscape:window-y="37"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Layer_1"
-     inkscape:document-rotation="0" /><g
-     id="g14544"
-     transform="translate(-86.999391,-406.99903)"
-     style="display:inline;fill:#ffffff;enable-background:new"><path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.5;stroke-opacity:1;marker:none;paint-order:fill markers stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 142.16211,494.00195 c -0.3928,-0.016 -0.79264,0.0268 -1.18555,0.13086 -1.05738,0.28017 -1.9221,0.97933 -2.44336,1.89453 -2.51672,-0.22477 -4.91162,1.1516 -5.97656,3.44727 -1.07271,2.31243 -0.56559,5.05473 1.26367,6.83008 1.82926,1.77534 4.58788,2.20194 6.86719,1.06054 2.20676,-1.10505 3.49065,-3.45007 3.27539,-5.89257 0.59118,-0.33407 1.10512,-0.8107 1.46875,-1.41797 0.83525,-1.3949 0.74131,-3.16186 -0.23633,-4.46094 -0.73322,-0.97431 -1.8548,-1.54394 -3.0332,-1.5918 z m -0.041,1 c 0.88379,0.0353 1.72432,0.4611 2.27539,1.19336 0.73477,0.97635 0.80549,2.29734 0.17774,3.34571 -0.62775,1.04836 -1.82561,1.61054 -3.0332,1.42382 a 0.50005006,0.50005006 0 1 0 -0.15235,0.98828 c 0.54314,0.084 1.08325,0.0449 1.59571,-0.0859 0.0521,1.92511 -0.99653,3.7274 -2.7461,4.60351 -1.90239,0.95265 -4.19394,0.59896 -5.7207,-0.88281 -1.52677,-1.48177 -1.94806,-3.76137 -1.05274,-5.69141 0.84423,-1.81987 2.6839,-2.93301 4.66602,-2.88086 -0.0398,0.15646 -0.0768,0.3137 -0.0977,0.47657 a 0.50013931,0.50013931 0 0 0 0.99219,0.12695 c 0.15491,-1.21208 1.02585,-2.20656 2.20703,-2.51953 0.2953,-0.0782 0.59408,-0.10943 0.88867,-0.0977 z"
-       transform="translate(-41.999998,-84.000005)"
-       id="path14540"
-       inkscape:connector-curvature="0" /></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" xml:space="preserve">
+    <g style="display:inline;fill:#fff;enable-background:new">
+        <path style="color:#000;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000;solid-opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:.5;stroke-opacity:1;marker:none;paint-order:fill markers stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="M142.162 494.002a3.996 3.996 0 0 0-1.185.13 3.993 3.993 0 0 0-2.444 1.895 6 6 0 0 0-5.976 3.448 6.003 6.003 0 0 0 8.13 7.89 5.995 5.995 0 0 0 3.276-5.892 3.984 3.984 0 0 0 1.469-1.418 4 4 0 0 0-3.27-6.053zm-.04 1a2.998 2.998 0 1 1-.58 5.963.5.5 0 1 0-.153.988 3.979 3.979 0 0 0 1.595-.086 4.985 4.985 0 0 1-2.746 4.604 4.996 4.996 0 0 1-5.72-.883 4.995 4.995 0 0 1-1.053-5.691 4.986 4.986 0 0 1 4.666-2.881c-.04.156-.077.313-.098.476a.5.5 0 0 0 .992.127 2.997 2.997 0 0 1 3.096-2.617z" transform="translate(-129 -490.999)"/>
+    </g>
+</svg>

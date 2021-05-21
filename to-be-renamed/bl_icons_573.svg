@@ -1,54 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="Layer_1"
-   x="0"
-   y="0"
-   enable-background="new 0 0 20 20"
-   version="1.1"
-   viewBox="0 0 20 20"
-   xml:space="preserve"
-   sodipodi:docname="bl_icons_573.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"><metadata
-     id="metadata7"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs5" /><sodipodi:namedview
-     pagecolor="#808080"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1750"
-     inkscape:window-height="991"
-     id="namedview3"
-     showgrid="false"
-     inkscape:pagecheckerboard="true"
-     inkscape:zoom="25.577418"
-     inkscape:cx="-0.44644607"
-     inkscape:cy="8.0087009"
-     inkscape:window-x="87"
-     inkscape:window-y="37"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Layer_1"
-     inkscape:document-rotation="0" /><g
-     id="g7662"
-     style="display:inline;fill:#ffffff;enable-background:new"
-     transform="matrix(1,0,0,-1,-465.00781,552.99219)"><path
-       inkscape:connector-curvature="0"
-       id="path17742-5"
-       d="m 468.50781,535.99219 a 0.50005,0.50005 0 0 0 -0.5,0.5 v 13 a 0.50005,0.50005 0 0 0 0.5,0.5 h 13 a 0.50005,0.50005 0 0 0 0.5,-0.5 v -13 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z m 0.5,1 h 12 v 5.00586 l -1,-0.006 v 2 l 1,0.006 V 546 h -1.00586 l 0.006,-2.00781 h -2 L 478.00195,546 h -2 l 0.006,-2.00781 h -2 L 474.00195,546 h -2 l 0.006,-2.00781 h -2 L 470.00195,546 h -0.99414 v -2.00391 l 1,-0.006 v -2 l -1,0.006 z m 3,7 h 2 v -2 h -2 z m 4,0 h 2 v -2 h -2 z"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke;enable-background:new" /><path
-       id="path17758-8"
-       d="m 470.00781,539.99219 v 2 h 2 v -2 z m 4,0 v 2 h 2 v -2 z m 4,0 v 2 h 2 v -2 z"
-       style="display:inline;opacity:0.8;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke;enable-background:new"
-       inkscape:connector-curvature="0" /></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" xml:space="preserve">
+    <g style="display:inline;fill:#fff;enable-background:new">
+        <path d="M468.508 535.992a.5.5 0 0 0-.5.5v13a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-13a.5.5 0 0 0-.5-.5zm.5 1h12v5.006l-1-.006v2l1 .006V546h-1.006l.006-2.008h-2l-.006 2.008h-2l.006-2.008h-2l-.006 2.008h-2l.006-2.008h-2l-.006 2.008h-.994v-2.004l1-.006v-2l-1 .006zm3 7h2v-2h-2zm4 0h2v-2h-2z" style="display:inline;opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke;enable-background:new" transform="matrix(1 0 0 -1 -465.008 552.992)"/>
+        <path d="M470.008 539.992v2h2v-2zm4 0v2h2v-2zm4 0v2h2v-2z" style="display:inline;opacity:.8;vector-effect:none;fill:#fff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke;enable-background:new" transform="matrix(1 0 0 -1 -465.008 552.992)"/>
+    </g>
+</svg>
