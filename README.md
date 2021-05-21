@@ -22,6 +22,8 @@ For those who wish to contribute, Blender's icons adhere to a 20×20px grid with
 
 _Do not edit the database or import icons into Iconset yourself!_  This program isn't amazing for team or git collaboration and it's kinda hard to track changes because the json it creates is minified and it doesn't seem to add data in an iterative way.  Instead, move your icons into an `ingest` folder in the repository root directory!  If you are submitting any icons that aren't already present in Blender please note these in your PR.  I will move icons out of this folder once they've been reviewed and import them into the directory myself at the end of the review process.
 
+For whatever reason some icons that were in the sheet weren't able to be found in Blender's icon browser.  Do you know what the icons in the `uncategorized` folder should be named (according to Blender's names)?  Have you got _proof?_  Make an issue and let me know!
+
 ## How to use
 
 This repository is best used with [Iconset](https://iconset.io/), a freeware icon management application for macOS and Windows.  Download the program, open its preferences, and hit the `switch` button to select the `blender-icons` folder _within_ this repository (do not select the repo itself).  Note that you must be using dark mode to actually see the icons as they're all white!  When possible icons are tagged for easy searching.
