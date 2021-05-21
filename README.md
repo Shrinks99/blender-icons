@@ -2,7 +2,7 @@
 
 Up to now Blender's Icons have all been stored in a big SVG file [over here](https://developer.blender.org/diffusion/B/browse/master/release/datafiles/blender_icons.svg).  I don't like this method, it's hard to find things unless you know exactly where they are because the file isn't searchable and the layers aren't named.
 
-**Project Status:** 203/~717 icons complete!
+**Project Status:** 511/~717 icons complete!
 
 ## Goals
 
