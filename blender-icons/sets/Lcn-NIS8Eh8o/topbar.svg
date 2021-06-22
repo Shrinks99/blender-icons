@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" xml:space="preserve">
-    <g style="display:inline;enable-background:new">
-        <path transform="translate(-4 -646)" d="M7 654v8c0 .545.455 1 1 1h12c.545 0 1-.455 1-1v-8h-1v8H8v-8z" style="opacity:.6;vector-effect:none;fill:#fff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke"/>
-        <path style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke" d="M8 670c-.545 0-1 .455-1 1v3h14v-3c0-.545-.455-1-1-1zm0 1h2v2H8z" transform="translate(-4 -667)"/>
+    <g fill="#ffffff">
+        <path transform="translate(-4 -646)" d="M7 654v8c0 .545.455 1 1 1h12c.545 0 1-.455 1-1v-8h-1v8H8v-8z" fill="#ffffff"/>
+        <path fill="#ffffff" d="M8 670c-.545 0-1 .455-1 1v3h14v-3c0-.545-.455-1-1-1zm0 1h2v2H8z" transform="translate(-4 -667)"/>
     </g>
 </svg>
