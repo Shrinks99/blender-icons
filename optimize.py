@@ -1,7 +1,14 @@
 #!/usr/bin/python
 # Requires Python >= 3
 """
-This script calls SVGO and makes sure that SVGO is executed correctly on all platforms
+Filename:
+    optimize.py
+
+Function:
+    This script calls SVGO and makes sure that SVGO is executed correctly on all platforms
+
+Important notes:
+    Code should be formatted by black and checked for bugs by pylint
 """
 from sys import platform
 import os
