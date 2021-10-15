@@ -1,0 +1,35 @@
+/* Toasts.css */
+#toast,
+#toast[hidden] {
+    display: block;
+    position: fixed;
+    left: 50%;
+    bottom: 0;
+    margin-bottom: 2rem;
+    padding: 6px 20px;
+    min-width: 30%;
+    max-width: 80%;
+    background: #333;
+    transform: translateX(-50%);
+    color: #fff;
+    text-align: center;
+    transition: all 500ms ease;
+    visibility: visible;
+    white-space: pre-wrap;
+    line-height: 2;
+    border-radius: 0.25rem;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    will-change: transform, opacity;
+    overflow: hidden;
+    contain: content;
+}
+
+#toast[hidden] {
+    transform: translateX(-50%) translateY(120%);
+    opacity: 0;
+}
+
+#toast.error {
+    color: #FCC;
+    background: #511;
+}
