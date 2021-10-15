@@ -17,11 +17,8 @@ help:
 	@printf "%b" "- make build \n"
 	@printf "%b" "- make serve \n"
 	@printf "%b" "- make dist \n"
-	@printf "%b" "- make install \n"
 	@printf "%b" "- make generate \n"
 
-check:
-	echo ${NPX}
 dev:
 	@printf "%b" "\033[1;35m• Preparing CSS assets...\033[0m \n"
 	@${NPX} tailwindcss-cli@latest -i ./css/raw/tailwind.css -o ./css/build/tailwind.output.css
@@ -44,10 +41,6 @@ dist:
 	@read -p "Press ENTER to start server, or CTRL C to stop: "
 	@${NPX} live-server
 
-install:
-	@pip install -r requirements.txt
-
 generate:
 	@python docs_generate.py
-	echo Done! Generated ./index.html, ready to serve
-	echo Run make dist to continue
+	echo Done! Generated pages, ready to serve.
