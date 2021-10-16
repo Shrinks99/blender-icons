@@ -40,7 +40,7 @@ git clone https://github.com/shrinks99/Blender-Icons.git && cd Blender-Icons
 
 Next, `cd` into the `docs/` folder:
 
-```
+```bash
 cd Blender-Icons
 ```
 
