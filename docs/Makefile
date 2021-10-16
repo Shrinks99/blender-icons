@@ -43,4 +43,3 @@ dist:
 
 generate:
 	@python docs_generate.py
-	echo Done! Generated pages, ready to serve.
