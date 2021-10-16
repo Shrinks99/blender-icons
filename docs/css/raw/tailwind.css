@@ -1,0 +1,54 @@
+/* This uses tailwindCSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Extend base layer with custom CSS */
+@layer base {
+
+    /* Fade in page effect */
+    body {
+        -webkit-animation: fadeIn ease-in 1s;
+        -moz-animation: fadeIn ease-in 1s;
+        -o-animation: fadeIn ease-in 1s;
+        -ms-animation: fadeIn ease-in 1s;
+        animation: fadeIn ease-in 1s;
+        overflow: hidden;
+    }
+
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+
+	/* Sticky header class */
+	.sticky-el {
+		position: sticky;
+		top: 0;
+	}
+
+    /* Remove pointer events from icon buttons
+     * -> This prevents unwanted divs or spans from
+     * catching the pointer event when an icon is clicked
+     * */
+    #icons-container button > * {
+        pointer-events: none;
+    }
+
+    h1 {
+        @apply text-4xl font-bold
+    }
+
+    .properties-label {
+        @apply text-base
+    }
+
+    h2:not(.properties-label) {
+        @apply text-2xl font-bold
+    }
+}

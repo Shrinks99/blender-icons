@@ -1,0 +1,88 @@
+.range-slider {
+    width: 100%;
+    height: 4px;
+    border-radius: 5px;
+	background-color: #aaa;
+    position: relative;
+    padding: 0;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+.range-slider * {
+    box-sizing: border-box;
+}
+.range-slider .pointer {
+    position: absolute;
+    width: 22px;
+    left: 23%;
+    background-color: #fefefe;
+    height: 22px;
+    top: -10px;
+    cursor: pointer;
+    z-index: 100;
+    border-radius: 20px;
+}
+.range-slider .pointer::after {
+    display: block;
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 6px;
+    left: 6px;
+    background-color: #b7b7b7;
+    border-radius: 10px;
+}
+.transitionable {
+    transition: all 0.5s;
+}
+.range-slider .range-progress {
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    z-index: 1;
+    width: 25%;
+    height: 100%;
+    border-radius: 5px;
+    background-color: #9f6;
+    box-shadow: 0px 0px 1px 1px rgba(102, 102, 102, 0.5) inset;
+}
+.range-progress.caution {
+    background-color: #e5c07b;
+}
+.range-progress.danger {
+    background-color: #ff6633;
+}
+.range {
+    position: relative;
+    z-index: 99;
+    box-sizing: border-box;
+    display: inline-block;
+    float: left;
+    width: 25%;
+    height: 100%;
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+}
+.range.stepped:not(:last-of-type) {
+    border-right: 2px solid #aaa;
+}
+.range.highlighted p {
+    display: block !important;
+}
+.range:hover p {
+    display: block !important;
+    transition: display 0.5s;
+}
+.range p {
+    font-weight: bold;
+    position: absolute;
+    font-size: 14px;
+    top: 15px;
+    right: -25px;
+    padding: 1px 3px;
+    color: #666;
+    display: none;
+    border-radius: 2px;
+    text-shadow: 1px 1px 1px rgba(102, 102, 102, 0.5);
+}

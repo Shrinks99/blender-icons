@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" xml:space="preserve">
-    <g style="display:inline;enable-background:new">
-        <path style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke" d="M454 117a6 6 0 0 1 6 6 6 6 0 0 1-6 6" transform="translate(-444 -113)"/>
+    <g fill="#ffffff">
+        <path fill="#ffffff" d="M454 117a6 6 0 0 1 6 6 6 6 0 0 1-6 6" transform="translate(-444 -113)"/>
         <g transform="translate(-444 -113)">
-            <circle style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke" cx="448" cy="123" r="1"/>
-            <circle r="1" cy="120" cx="448.804" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke"/>
-            <circle style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke" cx="451" cy="117.804" r="1"/>
-            <circle style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke" cx="448.804" cy="-126" r="1" transform="scale(1 -1)"/>
-            <circle r="1" cy="-128.196" cx="451" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:fill markers stroke" transform="scale(1 -1)"/>
+            <circle fill="#ffffff" cx="448" cy="123" r="1"/>
+            <circle r="1" cy="120" cx="448.804" fill="#ffffff"/>
+            <circle fill="#ffffff" cx="451" cy="117.804" r="1"/>
+            <circle fill="#ffffff" cx="448.804" cy="-126" r="1" transform="scale(1 -1)"/>
+            <circle r="1" cy="-128.196" cx="451" fill="#ffffff" transform="scale(1 -1)"/>
         </g>
-        <path style="display:inline;opacity:.99;fill:none;stroke:#fff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" d="M456.5 123.5h-3v-3" transform="translate(-444 -113)"/>
+        <path fill="#ffffff" d="M456.5 123.5h-3v-3" transform="translate(-444 -113)"/>
     </g>
 </svg>
