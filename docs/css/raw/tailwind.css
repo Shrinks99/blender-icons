@@ -44,7 +44,11 @@
         @apply text-4xl font-bold
     }
 
-    h2 {
+    .properties-label {
+        @apply text-base
+    }
+
+    h2:not(.properties-label) {
         @apply text-2xl font-bold
     }
 }

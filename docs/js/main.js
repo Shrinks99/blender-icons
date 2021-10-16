@@ -153,7 +153,7 @@ let template = function (iconName, tagsArray, iconIndex) {
             <h1 class="mb-5 text-xl font-medium text-gray-400">Properties</h1>
             <div id="downloadBtnsContainer" class="flex flex-col py-10 space-y-5">
                 <!--Label for icon name-->
-                <h2 class="font-medium text-gray-400 text-md">${iconName}</h2>
+                <h2 class="font-medium text-gray-400 properties-label text-md">${iconName}</h2>
                 <!--Buttons container-->
                 <div class="flex flex-col space-y-3">
                     <!--Copy icon button-->
@@ -178,7 +178,7 @@ let template = function (iconName, tagsArray, iconIndex) {
             </div>
             <div id="tagsContainer" class="flex flex-col py-10 space-y-5">
                 <!--Label for tags-->
-                <h2 class="font-medium text-gray-400 text-md">Tags</h2>
+                <h2 class="font-medium text-gray-400 properties-label text-md">Tags</h2>
                 <!--List of tags here-->
                 <div class="flex flex-wrap text-gray-400">
                     ${tagsMarkup}
