@@ -1,20 +1,13 @@
 ###########################
 # This YAML file is a human-readable representation
-# of the blender-icons repo - it is 
+# of the blender-icons repo - it is
 # used by the doc-generate.py script to create
-# HTML docs like https://feathericons.com/ but 
+# HTML docs like https://feathericons.com/ but
 # without any React components necessary
-#
-# The groups of this yaml file are near-identical
-# to that of the json file used by Iconset
-# but are in YAML for easier parsing for the script,
-# AND, more importantly, because YAML is fun and
-# easy to edit by real humans!
 #
 # Tagging is accomplished via appending each
 # tag to the **class** of the HTML element so that
-# they can be searched. Tags are IDENTICAL to
-# the version found in iconset. Below are the tags:
+# they can be searched. Below are the tags:
 #
 #   - Custom
 #   - Bonus

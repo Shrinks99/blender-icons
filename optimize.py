@@ -14,7 +14,7 @@ from sys import platform
 import os
 
 # We'll use NPX to run SVGO which optimizes the files
-MAIN_COMMAND = "npx svgo -f blender-icons/sets/Lcn-NIS8Eh8o/ -o blender-icons/sets/Lcn-NIS8Eh8o/"
+MAIN_COMMAND = "npx svgo -f blender-icons -o blender-icons"
 
 # These two commands are used on Unix-based OSes and Windows
 # respectively to check if the `npx` command exists

@@ -5,7 +5,7 @@ Filename:
 Function:
     Parses human-readable YAML found at ./icons-list.yml and outputs
     a complete HTML website that showcases all icons in the
-    "../blender-icons/sets/Lcn-NIS8Eh8o" folder
+    "../blender-icons" folder
 
 Important notes:
     Code should be formatted by black and checked for bugs by pylint

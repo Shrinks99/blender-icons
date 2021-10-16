@@ -4,7 +4,7 @@ Filename:
 
 Function:
     Generates boilerplate YAML based on icons placed in the
-    `blender-icons/sets/Lcn-NIS8Eh8o/` folder
+    `blender-icons` folder
 
 Important notes:
     Code should be formatted by black and checked for bugs by pylint
@@ -20,7 +20,7 @@ import lxml.etree as etree
 # Path where the SVG icons are located
 # This should not need to be changed unless
 # the icons are moved somewhere else
-icons_path = "../blender-icons/sets/Lcn-NIS8Eh8o"
+icons_path = "../blender-icons"
 
 # Standard width and height of an icon - nominally this is set
 # to 20px by 20px
@@ -101,7 +101,7 @@ for icon in icons_list:
     width = standard_width
     height = standard_height
     tags = base_tags
-    svg_rawtext = open(os.path.join("../blender-icons/sets/Lcn-NIS8Eh8o/", filename), "r").read()
+    svg_rawtext = open(os.path.join("../blender-icons", filename), "r").read()
     # Parses the SVG like an XML document so it can be manipulated with etree
     svg_parsed = etree.fromstring(svg_rawtext)
     # We just need to extract everything inside the <svg> tag
