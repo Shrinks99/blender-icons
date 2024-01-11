@@ -1,3 +1,7 @@
+# Repo Archived!
+
+I don't have a good way of maintaining this and better things exist!  Check out https://ui.blender.org/icons for Blender's official icon browser!  Like this project, this website will let you download individual icons as SVGs but unlike this project, it's officially maintained!
+
 # Blender Icons
 
 Up to now Blender's icons have all been stored in a big SVG file [over here](https://developer.blender.org/diffusion/B/browse/master/release/datafiles/blender_icons.svg).  I don't like this method, it's hard to find things unless you know exactly where they are because the file isn't searchable and the layers aren't named.
